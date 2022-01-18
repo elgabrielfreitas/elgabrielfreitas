@@ -1,9 +1,10 @@
 ## Olá, sou o Gabriel Freitas, programador front-end!
+
 <div align="center">
   <a href="https://github.com/elgabrielfreitas">
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=elgabrielfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgabrielfreitas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elgabrielfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
